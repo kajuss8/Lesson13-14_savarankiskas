@@ -1,0 +1,11 @@
+Name: Adomas| ID: 2| Came to work: 08:51| Break time: 11:09| Came from break: 13:45| Ended work: 17:35| worked: 6h 8min| break time: 2h 36min 
+Name: Adomas| ID: 7| Came to work: 08:51| Break time: 11:26| Came from break: 13:28| Ended work: 17:10| worked: 6h 17min| break time: 2h 2min 
+Name: Adomas| ID: 4| Came to work: 09:49| Break time: 12:13| Came from break: 13:36| Ended work: 16:38| worked: 5h 26min| break time: 1h 23min 
+Name: Doma| ID: 9| Came to work: 08:49| Break time: 12:01| Came from break: 13:04| Ended work: 16:13| worked: 6h 21min| break time: 1h 3min 
+Name: Ignas| ID: 8| Came to work: 08:33| Break time: 12:13| Came from break: 13:47| Ended work: 18:50| worked: 8h 43min| break time: 1h 34min 
+Name: Karolina| ID: 6| Came to work: 08:06| Break time: 11:02| Came from break: 13:20| Ended work: 18:01| worked: 7h 37min| break time: 2h 18min 
+Name: Kristina| ID: 3| Came to work: 09:14| Break time: 11:49| Came from break: 13:10| Ended work: 16:10| worked: 5h 35min| break time: 1h 21min 
+Name: Lina| ID: 5| Came to work: 08:06| Break time: 12:27| Came from break: 13:41| Ended work: 17:16| worked: 7h 56min| break time: 1h 14min 
+Name: Lukas| ID: 1| Came to work: 08:36| Break time: 12:14| Came from break: 13:40| Ended work: 16:38| worked: 6h 36min| break time: 1h 26min 
+Name: Paulius| ID: 10| Came to work: 08:27| Break time: 11:55| Came from break: 13:37| Ended work: 17:03| worked: 6h 54min| break time: 1h 42min 
+All workers spend: 67h and 33min in work

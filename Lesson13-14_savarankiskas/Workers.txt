@@ -1,0 +1,10 @@
+Name: Adomas| ID: 2|enter incorrect gates: 2 times first time: 08:50:08 second time: 08:50:44| He went through: Third gate| Came to work: 08:51
+Name: Adomas| ID: 7|enter incorrect gates: 2 times first time: 08:50:00 second time: 08:50:39| He went through: Third gate| Came to work: 08:51
+Name: Adomas| ID: 4|enter incorrect gates: 3 times first time 09:48:01 second time 09:48:31 third time 09:48:51| He went through: Fourth gate| Came to work: 09:49
+Name: Doma| ID: 9|enter incorrect gates: 3 times first time 08:48:14 second time 08:48:24 third time 08:48:57| He went through: Fourth gate| Came to work: 08:49
+Name: Ignas| ID: 8|enter incorrect gates: 0 times| He went through: First gate| Came to work: 08:33
+Name: Karolina| ID: 6|enter incorrect gates: 1 time 08:05:11| He went through: Second gate| Came to work: 08:06
+Name: Kristina| ID: 3|enter incorrect gates: 1 time 09:13:24| He went through: Second gate| Came to work: 09:14
+Name: Lina| ID: 5|enter incorrect gates: 1 time 08:05:44| He went through: Second gate| Came to work: 08:06
+Name: Lukas| ID: 1|enter incorrect gates: 0 times| He went through: First gate| Came to work: 08:36
+Name: Paulius| ID: 10|enter incorrect gates: 2 times first time: 08:26:11 second time: 08:26:43| He went through: Third gate| Came to work: 08:27
